@@ -1,0 +1,5 @@
+Сайт дневник для заметок, записей, мыслей.
+https://flask-moneta.herokuapp.com/
+
+Код на github:
+https://github.com/MrVeshij/Microblog
