@@ -52,6 +52,8 @@ class AppCalc(Frame):
         if sum_y == len(check_y):
             if self.calculation_y(numbers, check_y) == 0:
                 return self.xcheck(numbers2, points_x)
+            else:
+                return 'YES'
 
 
     def xcheck(self, numbers2, points_x):
